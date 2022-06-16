@@ -120,7 +120,7 @@ driver.refresh()
 time.sleep(2)
 
 
-# Boucle qui va lancer la search de façon permanente
+# Boucle qui va lancer la recherche de façon permanente
 
 while True:
     
